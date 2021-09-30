@@ -1,6 +1,5 @@
     # Hackintosh-Catalina-Dell-Inspiron-14-5447-
-Criação do zero do hackintosh Catalina no notebook Dell Inspirom 14 5447 core i 5. 
-Github do Monstro que montou esse hack  https://github.com/Lucas-FBS      
+Criação do zero do hackintosh Catalina no notebook Dell Inspirom 14 5447 core i 5.       
 FUNCIONANDO
 * HDMI
 * AUDIO
